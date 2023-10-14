@@ -49,14 +49,14 @@ When something bad happens all authorised by you persons receive an alert with y
 ## Technologies used
 * React Native
 * Flask
-* SQL Alchemy
+* SQLAlchemy
 
 
 ## Authors
-- Jan Napieralski  [R3VANEK](https://github.com/R3VANEK)
-- Artur Kręgiel [arkregiel](https://github.com/arkregiel)
-- Jakub Stępkowski [stepkos](https://github.com/stepkos)
-- Mateusz Głuchowski [Hue1337](https://github.com/Hue1337)
+- Jakub Stępkowski [stepkos](https://github.com/stepkos) - Team Leader, Backend Developer
+- Jan Napieralski  [R3VANEK](https://github.com/R3VANEK) - Mobile Developer
+- Artur Kręgiel [arkregiel](https://github.com/arkregiel) - Backend Developer
+- Mateusz Głuchowski [Hue1337](https://github.com/Hue1337) - Mobile Developer
 
 ## Licence
 All rights reserved
