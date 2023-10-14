@@ -53,8 +53,8 @@ When something bad happens all authorised by you persons receive an alert with y
 
 
 ## Authors
-- Jakub Stępkowski [stepkos](https://github.com/stepkos) - Team Leader, Backend Developer
-- Jan Napieralski  [R3VANEK](https://github.com/R3VANEK) - Mobile Developer
+- Jakub Stępkowski [stepkos](https://github.com/stepkos) - Team Leader, Head of Backend
+- Jan Napieralski  [R3VANEK](https://github.com/R3VANEK) - Head of Mobile
 - Artur Kręgiel [arkregiel](https://github.com/arkregiel) - Backend Developer
 - Mateusz Głuchowski [Hue1337](https://github.com/Hue1337) - Mobile Developer
 
